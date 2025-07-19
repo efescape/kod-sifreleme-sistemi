@@ -49,4 +49,4 @@ Kullanıcıdan şifre istenir ve doğrulama yapılır. Başarılı olursa progra
 - JustPaste linki herkese açık olmamalıdır.
 - Şifreleme yöntemi yalnızca **Base64** olduğu için çok yüksek güvenlik sağlamaz; daha güçlü şifreleme yöntemleriyle entegre edilebilir.
 
-Discord: kocalfa
+### Discord: *kocalfa*
